@@ -4,7 +4,7 @@ This Streamlit web application provides an interactive dashboard for exploring a
 
 ## 🚀 Live App
 
-👉 [Launch the App on Streamlit](https://francisbright1-housing-price-dashboard-app-88lzx5.streamlit.app/)
+👉 [Launch the App on Streamlit] https://francisbright1-housing-price-dashboard-app-insthu.streamlit.app/
 
 ## 📊 Project Overview
 
